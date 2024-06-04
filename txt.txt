@@ -1,0 +1,2 @@
+// para probar nuestra api lo podemos correr en Graphql playground que viene con el servidor de apollo
+http://localhost:4000/graphql este es el puesto que nos da por defecto
